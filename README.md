@@ -1,6 +1,6 @@
 # AI-Powered Image Enhancer
 
-[Live Demo](deployment-link-here)
+[Live Demo](https://ai-powered-image-enhacer.vercel.app/)
 
 A modern web application that enhances image quality using AI technology. Built with React and powered by the PicWish API.
 
